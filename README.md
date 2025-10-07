@@ -1,72 +1,70 @@
-# Wrapper 💰
+# FinFit 💰
 
-[![Watch the video](https://img.youtube.com/vi/jnlp1WfTg1I/maxresdefault.jpg)](https://www.youtube.com/watch?v=jnlp1WfTg1I)
+**FinFit** represents a React Native application crafted to assist users in managing finances efficiently. Users get enabled to track expenses, establish budgets, and visualize spending habits, thereby promoting improved financial well-being. Developed for Droidrush Avishkar MNNIT 2025, FinFit serves as your comprehensive financial companion!
 
-**Wrapper** is a React Native-based application designed to help users manage their finances effectively. It enables users to track expenses, set budgets, and visualize spending habits, ensuring better financial health. Built for Droidrush Avishkar MNNIT 2024, Wrapper is your all-in-one financial assistant!
-
-## Technology Stack Used ✨
+## Technology Stack Employed ✨
 
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
 ![Expo Go](https://img.shields.io/badge/Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
 
-## Features Implemented 💡
+## Features That Have Been Implemented 💡
 
-1. **📂 Expense Management**
-   - Create, edit, and delete expenses with categorized tags.
+1. **📂 Expense Management**  
+   - Expenses can be created, edited, and deleted, each tagged with categories.
      
-2. **📊 Data Visualization**
-   - View spending patterns using Pie Charts and Line Graphs.
+2. **📊 Data Visualization**  
+   - Spending patterns become viewable through Pie Charts and Line Graphs.
      
-3. **📅 Budgeting with Alerts**
-   - Set monthly budgets and receive notifications when limits are exceeded.
+3. **📅 Budgeting Accompanied by Alerts**  
+   - Monthly budgets get set, with notifications sent upon exceeding limits.
      
-4. **🗂️ Expense Categorization**
-   - Classify expenses into categories like Food, Transport, and Entertainment.
+4. **🗂️ Expense Categorization**  
+   - Expenses are classified into categories such as Food, Transport, and Entertainment.
      
-5. **📤 Export Reports**
-   - Export financial reports in PDF, JSON, or CSV formats.
+5. **📤 Export Reports**  
+   - Financial reports are exportable in PDF, JSON, or CSV formats.
      
-6. **💱 Multi-Currency Support**
-   - Track expenses in different currencies with live exchange rates.
+6. **💱 Multi-Currency Support**  
+   - Expenses in various currencies are tracked, utilizing live exchange rates.
      
-7. **🌐 Multi-Language Support**
-   - Available in multiple languages for a global audience.
+7. **🌐 Multi-Language Support**  
+   - The app is available in multiple languages, catering to a global audience.
      
-8. **🎯 Saving Goals**
-   - Set and track progress toward saving goals.
+8. **🎯 Saving Goals**  
+   - Progress toward saving goals is set and tracked.
      
-9. **🔐 Local Authentication**
-   - Ensure security with local authentication methods.
+9. **🔐 Local Authentication**  
+   - Security is ensured via local authentication methods.
      
-10. **🧮 In-Built Expense Calculator**
-    - Perform quick calculations directly within the app.
+10. **🧮 In-Built Expense Calculator**  
+    - Quick calculations are performed directly within the app.
       
-11. **💳 Deep Link UPI Payments**
-    - Redirect to your preferred UPI app for payment upon adding an expense.
+11. **💳 Deep Link UPI Payments**  
+    - Upon adding an expense, redirection to your preferred UPI app occurs for payment.
 
 ---
 
 ### Wow Factors 🚀
 
 - **QR Data Sync**  
-  🔄 Seamlessly sync data across devices using QR codes.
+  🔄 Data gets synced across devices seamlessly using QR codes.
 
 - **AI Financial Advisor Chatbot**  
-  🤖 Get personalized budget recommendations powered by Google GEMINI API.
+  🤖 Personalized budget recommendations are provided, powered by Google GEMINI API.
 
 - **OCR Expense Input**  
-  📸 Add expenses from receipts using OCR (camera or gallery).
+  📸 Expenses are added from receipts via OCR, using camera or gallery.
 
 ---
 
-## Libraries and APIs Used 💻
+## Libraries and APIs Utilized 💻
 
-- **React Native Libraries**: For seamless app functionality.  
-- **Lottie Animations**: Enhance user experience with engaging animations.  
-- **Google GEMINI API**: Power the AI Financial Advisor chatbot.  
-- **OCR SPACE API**: Implement OCR for receipt scanning and expense addition.
+- **React Native Libraries**: These ensure seamless app functionality.  
+- **Lottie Animations**: User experience is enhanced with engaging animations.  
+- **Google GEMINI API**: This powers the AI Financial Advisor chatbot.  
+- **OCR SPACE API**: OCR is implemented for receipt scanning and expense addition.
 
 ---
 
@@ -77,3 +75,5 @@
 - [Harshit Kumar Jayaswal](https://github.com/kharshit801)  
 - [Aachintya Wairiya](https://github.com/aachintya)  
 - [Abhishek Rastogi](https://github.com/Abhishekmnnit6022)  
+
+
